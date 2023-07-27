@@ -1,0 +1,50 @@
+Beanie, Sweater, Jeans, Sneakers
+Sun Hat, Dress, Sandals
+Headband, T-shirt, Shorts, Flip-Flops
+Fedora, Blazer, Trousers, Loafers
+Baseball Cap, Tank Top, Skirt, Ballet Flats
+Floppy Hat, Romper, Espadrilles
+Beret, Blouse, Capri Pants, Oxford Shoes
+Visor, Polo Shirt, Cargo Shorts, Hiking Boots
+Turban, Jumpsuit, Platform Sandals
+Bucket Hat, Cardigan, Leggings, Ankle Boots
+Newsboy Cap, Tunic, Skinny Jeans, Mules
+Fascinator, Peplum Top, Culottes, Kitten Heels
+Knit Hat, Sweatshirt, Joggers, Athletic Shoes
+Hairband, Poncho, Leg Warmers, Ballet Flats
+Cowboy Hat, Vest, Cutoff Shorts, Cowboy Boots
+Knit Headband, Kimono, Fishnet Stockings, High Heels
+Wool Beret, Off-Shoulder Top, Capris, Strappy Sandals
+Headscarf, Bodysuit, Harem Pants, Gladiator Sandals
+Bandana, Crop Top, Bermuda Shorts, Converse
+Cloche Hat, Peasant Top, Corduroy Pants, Brogues
+Trilby Hat, Blouse, Pencil Skirt, Strappy Heels
+Knit Beanie, Turtleneck Sweater, Leather Leggings, Knee-High Boots
+Wide-Brim Hat, Maxi Dress, Wedge Sandals
+Newsboy Cap, Button-Up Shirt, Chinos, Boat Shoes
+Bucket Hat, Tank Top, Denim Shorts, Slides
+Hairpin, Ruffled Blouse, A-Line Skirt, Mary Jane Pumps
+Floppy Sun Hat, Off-Shoulder Dress, Espadrille Wedges
+Fedora, Chambray Shirt, Cargo Pants, Desert Boots
+Velvet Headband, Wrap Coat, Wide-Leg Trousers, Loafers
+Knit Headband, Poncho, Leggings, Tall Boots
+Military Cap, Utility Jacket, Camo Cargo Pants, Combat Boots
+Peaked Cap, Polo Dress, Sneakers
+Fascinator, Lace Top, Pleated Midi Skirt, Strappy Sandals
+Visor, Halter Neck Jumpsuit, Block Heel Sandals
+Slouchy Beanie, Oversized Sweater, Joggers, High-Top Sneakers
+Wool Beret, Crew Neck Sweater, Corduroy Skirt, Ankle Boots
+Turban, Tunic Dress, Tights, Flats
+Baseball Cap, Graphic Tee, Distressed Jeans, Skate Shoes
+Straw Hat, Peplum Blouse, Cropped Trousers, Slingback Flats
+Knit Hat, Cape Coat, Leg Warmers, Over-the-Knee Boots
+Bowler Hat, Sleeveless Blazer, Tailored Shorts, Loafers
+Boater Hat, Linen Shirt, Bermuda Shorts, Boat Shoes
+Headband, Kimono Cardigan, Wide-Leg Jumpsuit, Platform Sandals
+Cloche Hat, Sweater Dress, Tights, Ankle Boots
+Headscarf, Fringe Vest, Bell-Bottom Jeans, Fringed Sandals
+Bandana, Wrap Top, Maxi Skirt, Gladiator Sandals
+Cowboy Hat, Western Shirt, Bootcut Jeans, Cowboy Boots
+Knit Headband, Hoodie, Track Pants, Athletic Sneakers
+Beret, Turtleneck Sweater Dress, Knee-High Boots
+Sun Hat, Sundress, Strappy Sandals

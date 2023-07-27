@@ -1,0 +1,28 @@
+Fedora, Dress Shirt, Chinos, Oxford Shoes
+Beanie, T-shirt, Denim Jeans, Sneakers
+Newsboy Cap, Sweater, Corduroy Pants, Loafers
+Baseball Cap, Polo Shirt, Bermuda Shorts, Boat Shoes
+Trilby Hat, Blazer, Dress Pants, Brogues
+Sun Hat, Linen Shirt, Tailored Shorts, Sandals
+Knit Hat, Hoodie, Joggers, Athletic Sneakers
+Headband, Button-Up Shirt, Khaki Pants, Derby Shoes
+Turban, Tunic, Harem Pants, Leather Sandals
+Bowler Hat, Cardigan, Wool Trousers, Chelsea Boots
+Straw Hat, Chambray Shirt, White Jeans, Espadrilles
+Knit Beanie, Peacoat, Dark Wash Jeans, Ankle Boots
+Fedora, Turtleneck Sweater, Tailored Trousers, Monk Strap Shoes
+Beanie, Flannel Shirt, Cargo Pants, Work Boots
+Newsboy Cap, V-neck Sweater, Chinos, Loafers
+Baseball Cap, Henley Shirt, Track Pants, Sneakers
+Sun Hat, Linen Blazer, Linen Pants, Sandals
+Knit Hat, Shawl Collar Cardigan, Tweed Trousers, Brogues
+Headband, Henley Shirt, Denim Shorts, Canvas Sneakers
+Turban, Kurta, Dhoti Pants, Kolhapuri Chappals
+Fedora, Dress Shirt, Dress Pants, Dress Shoes
+Beanie, Crew Neck Sweater, Slim Fit Jeans, Sneakers
+Newsboy Cap, Polo Shirt, Chino Shorts, Boat Shoes
+Baseball Cap, Flannel Shirt, Cargo Shorts, Hiking Boots
+Trilby Hat, Blazer, Dress Shirt, Dress Pants, Oxfords
+Sun Hat, Linen Shirt, Linen Shorts, Espadrilles
+Headband, Button-Up Shirt, Chinos, Loafers
+Turban, Tunic, Harem Pants, Sandals

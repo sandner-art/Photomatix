@@ -1,0 +1,45 @@
+Wizard's Hat, Robe of Sorcery, Enchanted Leggings, Mystical Boots
+Elven Crown, Elven Tunic, Elven Leggings, Leaf-Embossed Boots
+Dwarven Helmet, Dwarven Armor, Dwarven Leggings, Sturdy Boots
+Noble's Tiara, Noble's Robe, Regal Leggings, Elegant Boots
+Knight's Helm, Knight's Plate Armor, Knight's Greaves, Steel Boots
+Dragonborn Crest, Dragon Scale Armor, Dragon Leather Leggings, Clawed Boots
+Sorcerer's Circlet, Sorcerer's Cloak, Enchanted Silk Leggings, Crystal-Embellished Boots
+Ranger's Hood, Ranger's Tunic, Ranger's Leggings, Forest-Blended Boots
+Tribal Chief's Headdress, Tribal Warrior's Attire, Tribal Warrior's Leggings, Tribal Sandals
+Magical Conical Hat, Enchanted Robe, Magician's Leggings, Floating Boots
+Crown of Light, Armor of Radiance, Leggings of Luminosity, Illuminating Boots
+Celestial Helm, Celestial Armor, Celestial Leggings, Astral Boots
+Warlock's Hood, Warlock's Robe, Cursed Leggings, Ebon Boots
+Beastmaster's Cap, Beastmaster's Vest, Beastmaster's Leggings, Clawed Boots
+Samurai's Kabuto, Samurai's Armor, Samurai's Hakama, Woven Tabi Boots
+Mage's Pointed Hat, Mage's Cloak, Mage's Leggings, Arcane Runed Boots
+Bard's Feathered Hat, Bard's Tunic, Bard's Leggings, Melody-Enhancing Boots
+Pirate Captain's Tricorn, Pirate Captain's Coat, Pirate Captain's Pants, Buccaneer Boots
+Tribal Shaman's Headdress, Tribal Shaman's Robe, Tribal Shaman's Leggings, Shamanic Sandals
+Elven Archer's Hood, Elven Archer's Tunic, Elven Archer's Leggings, Leaf-Muffled Boots
+Crown of Ice, Armor of Frost, Leggings of Snowfall, Glacier-Graced Boots
+Woodland Faerie Crown, Woodland Faerie Dress, Woodland Faerie Leggings, Butterfly-Adorned Boots
+Viking Helm, Viking Armor, Viking Leggings, Fur-Lined Boots
+King's Crown, King's Robe, King's Leggings, Regal Boots
+Paladin's Helmet, Paladin's Armor, Paladin's Leggings, Holy Boots
+Forest Druid's Hood, Forest Druid's Robe, Forest Druid's Leggings, Bark-Textured Boots
+Mythical Centaur Headpiece, Centaur Chest Plate, Centaur Leggings, Hoofed Boots
+Sea Captain's Tricorn, Sea Captain's Coat, Sea Captain's Pants, Seafarer Boots
+Tribal Warrior's Crest, Tribal Warrior's Tunic, Tribal Warrior's Leggings, Tribal Sandals
+Alchemist's Pointed Hat, Alchemist's Robe, Alchemist's Leggings, Vial-Enhanced Boots
+Crown of Fire, Armor of Ember, Leggings of Flames, Molten Boots
+Ancient Elder's Headdress, Ancient Elder's Robe, Ancient Elder's Leggings, Runed Boots
+Gargoyle Helmet, Gargoyle Armor, Gargoyle Leggings, Stone-Textured Boots
+Emperor's Crown, Emperor's Robe, Emperor's Leggings, Imperial Boots
+Crusader's Helmet, Crusader's Plate Armor, Crusader's Leggings, Ironclad Boots
+Elf King's Crown, Elf King's Robe, Elf King's Leggings, Silver-Embroidered Boots
+Minstrel's Hat, Minstrel's Tunic, Minstrel's Leggings, Traveling Boots
+Ghost Pirate Captain's Tricorn, Ghost Pirate Captain's Coat, Ghost Pirate Captain's Pants, Phantom Boots
+Tribal Witch Doctor's Headdress, Tribal Witch Doctor's Robe, Tribal Witch Doctor's Leggings, Bone-Adorned Sandals
+Mage's Starry Hat, Mage's Celestial Robe, Mage's Starry Leggings, Celestial Boots
+Crown of Shadows, Armor of Nightfall, Leggings of Darkness, Shadowy Boots
+Archmage's Pointed Hat, Archmage's Cloak, Archmage's Leggings, Star-Embroidered Boots
+Leprechaun's Hat, Leprechaun's Jacket, Leprechaun's Leggings, Shamrock-Printed Boots
+Ogre Helmet, Ogre Armor, Ogre Leggings, Sturdy Stompers
+Royal Court Jester's Hat, Royal Court Jester's Outfit, Royal Court Jester's Leggings

@@ -1,0 +1,29 @@
+backlighting
+rim light
+blending
+bloom
+bokeh
+caustics
+chiaroscuro
+dim lights
+drop shadow
+emphasis lines
+film grain
+foreshortening
+gradient
+halftone
+double exposure
+lens flare
+lens flare abuse
+motion blur
+motion lines
+multiple monochrome
+optical illusion
+anaglyph
+stereogram
+scanlines
+silhouette
+speed lines
+vignetting
+very dark dramatic blind lighting
+bottom 5800K floodlight

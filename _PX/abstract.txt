@@ -1,0 +1,44 @@
+abstract
+art deco
+art nouveau
+fine art parody
+flame painter
+impressionism
+ligne claire
+nihonga
+sumi-e
+ukiyo-e
+minimalism
+realistic
+photorealistic
+sketch
+style parody retro artstyle 1920s
+style parody retro artstyle 1930s
+style parody retro artstyle 1940s
+style parody retro artstyle 1950s
+style parody retro artstyle 1960s
+style parody retro artstyle 1970s
+style parody retro artstyle 1980s
+style parody retro artstyle 1990s
+style parody retro artstyle 2000s
+surreal
+traditional media
+traditional media acrylic_paintk	
+traditional media airbrush
+traditional media amigurumi
+traditional media ballpoint_pen	
+traditional media blueprint	
+traditional media book_cover	
+traditional media brush	
+traditional media brushpen		
+traditional media calligraphy_brush	
+traditional media calligraphy_pen	
+traditional media canvas	
+traditional media card	
+traditional media chalk	
+traditional media charcoal	
+traditional media clay	
+traditional media clear_file	
+traditional media colored_pencil
+traditional media color_ink
+faux traditional media
