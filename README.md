@@ -5,3 +5,12 @@ Utilities, Styles, and Wildcards for SD Model Photomatix
 
 In this repository are resources for experiments with Photomatix style system.
 Recommended embeddings> [Barnum Camera](https://civitai.com/models/116794?modelVersionId=126476)
+
+## Installation
+Download and unzip all files (use the green <> Code button and Download zip option).
+### Styles
+Copy the styles.csv into your \stable-diffusion-webui folder. Backup your original file if there is any.
+### Wildcards
+You need Dynamic Prompts extension to use wildcards in A1111. After installing Dynamic Prompts, copy the wildcards folder into stable-diffusion-webui\extensions\sd-dynamic-prompts\wildcards. Refresh the list in Wildcards Manager tab.
+### Barnum Camera
+Copy the files to stable-diffusion-webui\embeddings folder and refresh the list of Textual Inversions.
