@@ -11,10 +11,16 @@ Recommended embeddings> [Barnum Camera](https://civitai.com/models/116794?modelV
 Download and unzip all files (use the green <> Code button and Download zip option).
 ### Styles
 Copy the styles.csv into your \stable-diffusion-webui folder. Backup your original file if there is any.
+
+![px-photomatixstyles-github-stablediffusion-sandner](https://github.com/sandner-art/Photomatix/assets/134306627/25866247-8c47-450f-abea-ecdf911ee5f3)
+
 ### Wildcards
 You need Dynamic Prompts extension to use wildcards in A1111. After installing Dynamic Prompts, copy the wildcards folder into stable-diffusion-webui\extensions\sd-dynamic-prompts\wildcards. Refresh the list in Wildcards Manager tab.
 ### Barnum Camera
 Copy the files to stable-diffusion-webui\embeddings folder and refresh the list of Textual Inversions. Barnum Camera is a set of highly versatile embeddings for stylized synthetic studio photography.
+
+![barnumcamera-github-sandner](https://github.com/sandner-art/Photomatix/assets/134306627/55cd3c80-ae9d-483c-90a0-b5a10c65b201)
+
 ### Vectorscope-CC Styles
 Install [Vectorscope Extension](https://github.com/Haoming02/sd-webui-vectorscope-cc/tree/main). Copy the file to \stable-diffusion-webui\extensions\sd-webui-vectorscope-cc. Vectorscope-CC is an extension modifying diffusion regarding color, brightness, and contrast.
 
