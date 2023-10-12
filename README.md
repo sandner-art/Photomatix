@@ -25,3 +25,25 @@ Copy the files to stable-diffusion-webui\embeddings folder and refresh the list 
 Install [Vectorscope Extension](https://github.com/Haoming02/sd-webui-vectorscope-cc/tree/main). Copy the file to \stable-diffusion-webui\extensions\sd-webui-vectorscope-cc. Vectorscope-CC is an extension modifying diffusion regarding color, brightness, and contrast.
 
 ![vectorscope-github-stablediffusion-sandner](https://github.com/sandner-art/Photomatix/assets/134306627/5bd67e82-3667-4e7e-9591-029dfe80c8f1)
+
+### Recommended LoRAs and Embeddings
+
+#### Negative embeddings (use in negative prompt)
+*Negative embeddings are not always needed but can help to fix possible issues.*
+- [Fast Negative v2](https://civitai.com/models/71961/fast-negative-embedding-fastnegativev2)
+- [EasyNegative](https://civitai.com/models/7808?modelVersionId=9208)
+- [DeepNegative](https://civitai.com/models/4629/deep-negative-v1x)
+- [Moral Panic Button](https://civitai.com/models/119729/moral-panic-button)
+  
+#### Positive embeddings (use in normal prompt)
+- [Barnum Camera](https://civitai.com/models/116794/barnum-camera)
+  
+#### LoRAs
+*Offset noise LoRAs are not mandatory for a quality image, but are interesting to experiment with.*
+- Adding diffusion noise and texture to the image: [Entropy](https://civitai.com/models/78940/entropy)
+- Dealing with dark dim images: [LowRA](https://civitai.com/models/48139/lowra)
+- "Overexposing" the image: [Lit](https://civitai.com/models/51145?modelVersionId=55665)
+- Managing details: [More Details](https://civitai.com/models/82098/add-more-details-detail-enhancer-tweaker-lora)
+- Simplify the composition: [Advanced Enhancer](https://civitai.com/models/106717/advanced-enhancer-lora)
+- More custom models on my [ AI Research profile on Civitai](https://civitai.com/user/airesearch/models)
+
