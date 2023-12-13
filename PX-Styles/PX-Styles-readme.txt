@@ -7,5 +7,6 @@ Contents:
 1. General styles for SDXL
 2. PX styles for Photomatix SD Model
 3. PX styles using Barnum Camera TI sets
+4. PX NEGATIVE experimental styles 
 
-version 1.0a
+version 1.1a
