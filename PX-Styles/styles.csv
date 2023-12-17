@@ -16,6 +16,11 @@
 "Style: 3d-model","professional 3d model {prompt} . octane render, highly detailed, volumetric, dramatic lighting","ugly, deformed, noisy, low poly, blurry, painting"
 "Style: pixel art","pixel-art {prompt} . low-res, blocky, pixel art style, 8-bit graphics","sloppy, messy, blurry, noisy, highly detailed, ultra textured, photo, realistic"
 "Style: Texture","texture {prompt} top down close-up","ugly, deformed, noisy, blurry"
+"ProStyle: Archviz","real estate photography style {prompt} . professional, inviting, well-lit, high-resolution, property-focused, commercial, highly detailed","bad art , dark, blurry, unappealing, noisy, unprofessional"
+"ProStyle: Ad","advertising poster style {prompt} . Professional, modern, product-focused, commercial, eye-catching, highly detailed","bad art , dark, blurry, unappealing, noisy, unprofessional"
+"ProStyle: Auto","automotive advertisement style {prompt} . sleek, dynamic, professional, commercial, vehicle-focused, high-resolution, highly detailed","bad art, noisy, blurry, unattractive, sloppy, unprofessional"
+"ProStyle: Food","food photography style {prompt} . appetizing, professional, culinary, high-resolution, commercial, highly detailed","unappetizing, sloppy, unprofessional, noisy, blurry"
+"ProStyle: Luxury","luxury product style {prompt} . elegant, sophisticated, high-end, luxurious, professional, highly detailed","bad art, cheap, noisy, blurry, unattractive, amateurish, sloppy, unprofessional"
 "PX: Studio Closeup","close-up, editorial photograph of a {prompt} highly detailed face, background inside dark, moody, POV, by","ugly, deformed, canvas frame, mount, cartoon, 3d, ((bad art)), ((deformed)),((extra limbs))"
 "PX: Studio Product","product photo {prompt} closeup, with photo lens cracked and greasy, realistic concept","barnum-negative, sfw human man woman watermark logo, deformed, noisy, disfigured"
 "PX: Studio Rimlights","professional photo {prompt} rim light, cinematic, atmospheric, hard rim light. upward pov. depth of field. hdr, realistic concept","barnum-negative, watermark logo, deformed, noisy, disfigured"
@@ -42,4 +47,5 @@
 "PX/NEG: Experimental","{prompt} solid-best-physical-appearance-perfect::1.1","not-solid-best-physical-appearance-perfect::2.1"
 "PX/NEG: Standard","{prompt}","((((ugly)))), (((duplicate))), ((morbid)), ((mutilated)), [out of frame], ((watermark)),((frame)),((signature)), borders, white border, extra fingers, mutated hands, ((poorly drawn hands)), ((poorly drawn face)), (((mutation))), (((deformed))), blurry, ((bad anatomy)), (((bad proportions))), ((extra limbs)), cloned face, (((disfigured))), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), (fused fingers), (too many fingers), (((long neck)))"
 "PX/NEG: SimplePose","{prompt} professional, simple","(((unprofessional-bodies))), (((unprofessional-pose)))"
+"PX/NEG: Watermark","{prompt}","photo-description, brand, right, name, logo, imprint, copyright, watermark, text, white text, signature, downloaded, company-branding"
 
