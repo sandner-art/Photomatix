@@ -1,0 +1,20 @@
+a  stylish pub exterior, building overview from outside
+a  stylish hotel, building overview from outside
+a  stylish villa, building overview from outside
+a  stylish house, building overview from outside
+a  stylish shack challet, building overview from outsider
+a  stylish library, building overview from outside
+a  stylish caffeteria, building overview from outside, city street
+a  stylish office building, , overview from outside
+a  stylish outlook, building overview from outside
+a  stylish church, building overview from outside
+a  stylish chapel, building overview from outside
+a  stylish country farm
+a  stylish country house, building overview from outside
+a  stylish luxury villa, archviz, building overview from outside
+
+
+
+
+
+
