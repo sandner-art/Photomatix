@@ -1,0 +1,60 @@
+Color Theme - deep navy, midnight blue, steel gray,
+Color Theme - coral, peach, goldenrod,
+Color Theme - sage green, lavender, taupe,
+Color Theme - emerald green, sunlit yellow, turquoise,
+Color Theme - graphite gray, blush pink, metallic silver,
+Color Theme - crimson red, fiery orange, deep burgundy,
+Color Theme - pumpkin orange, amber, deep burgundy,
+Color Theme - coastal blue, seafoam green, sandy beige,
+Color Theme - lavender, misty gray, blush pink,
+Color Theme - royal blue, emerald green, golden yellow,
+Color Theme - terracotta, mustard, rustic brown,
+Color Theme - white, gray, black,
+Color Theme - lemon yellow, orange, lime green,
+Color Theme - frosty blue, silver gray, icy lavender,
+Color Theme - petal pink, lavender blush, minty green,
+Color Theme - gold, chocolate brown, creamy beige,
+Color Theme - mossy green, forest green, earthy brown,
+Color Theme - sky blue, lavender mist, pale peach,
+Color Theme - royal purple, emerald green, sapphire blue,
+Color Theme - sand beige, copper, sage green,
+Color Theme - navy blue, seafoam green, pearl white,
+Color Theme - antique rose, faded teal, weathered gold,
+Color Theme - midnight blue, silver, indigo,
+Color Theme - burgundy, mustard gold, terracotta,
+Color Theme - apple red, leafy green, golden yellow,
+Color Theme - terracotta, azure blue, sunlit yellow,
+Color Theme - cosmic purple, celestial silver, galactic blue,
+Color Theme - misty gray-blue, raindrop teal, petal pink,
+Color Theme - carnival red, cotton candy pink, bubblegum blue,
+Color Theme - barn red, sunflower yellow, distressed white.
+Color Harmony: Radiant Orchid, Turquoise, Golden Yellow.
+Color Contrast: Midnight Blue, Coral, Ivory.
+Color Harmony: Sage Green, Rose Quartz, Serenity Blue.
+Color Contrast: Marsala Red, Mustard Yellow, Slate Gray.
+Color Harmony: Teal, Coral, Peach, Mint.
+Color Contrast: Indigo Blue, Tangerine, Olive Green.
+Color Harmony: Lavender, Mint Green, Soft Pink.
+Color Contrast: Burgundy, Navy Blue, Champagne.
+Color Harmony: Cobalt Blue, Lemon Yellow, Cherry Red.
+Color Contrast: Forest Green, Burnt Orange, Cream.
+Color Harmony: Amethyst Purple, Emerald Green, Coral.
+Color Contrast: Terracotta, Sky Blue, Charcoal Gray.
+Color Harmony: Plum, Mustard Yellow, Teal.
+Color Contrast: Aubergine, Turquoise, Ivory.
+Color Harmony: Blush Pink, Mint Green, Lilac.
+Color Contrast: Ruby Red, Navy Blue, Gold.
+Color Harmony: Denim Blue, Coral, Buttercream.
+Color Contrast: Olive Green, Terra Cotta, Cream.
+Color Harmony: Orchid, Emerald Green, Champagne.
+Color Contrast: Maroon, Mustard Yellow, Slate Gray.
+Color Harmony: Cobalt Blue, Tangerine, Mint Green.
+Color Contrast: Forest Green, Coral, Charcoal Gray.
+Color Harmony: Lavender, Peach, Sage Green.
+Color Contrast: Burgundy, Navy Blue, Soft Gray.
+Color Harmony: Rose Quartz, Serenity Blue, Golden Yellow.
+Color Contrast: Marsala Red, Olive Green, Cream.
+Color Harmony: Teal, Coral, Plum, Buttercream.
+Color Contrast: Indigo Blue, Mustard Yellow, Charcoal Gray.
+Color Harmony: Blush Pink, Mint Green, Denim Blue.
+Color Contrast: Ruby Red, Forest Green, Champagne.

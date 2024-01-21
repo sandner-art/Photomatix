@@ -1,0 +1,60 @@
+Oceanic Blue Palette: Cerulean, Aquamarine, Powder Blue.
+Autumn Sunset Scheme: Rust, Amber, Terracotta.
+Earthy Tones Ensemble: Olive, Cocoa, Sandstone.
+Spring Meadow Hues: Mint, Pistachio, Meadow Green.
+Vibrant Citrus Burst: Tangerine, Lemon, Lime.
+Romantic Rose Affair: Blush, Rose, Dusty Pink.
+Serene Sky Shades: Sky Blue, Baby Blue, Periwinkle.
+Elegant Monochrome: Charcoal, Slate, Silver.
+Golden Harvest Palette: Mustard, Harvest Gold, Caramel.
+Fresh Minty Palette: Mint Green, Spearmint, Sage.
+Bold Crimson Collection: Crimson, Burgundy, Maroon.
+Desert Sand Scheme: Sand, Taupe, Desert Brown.
+Tropical Oasis Colors: Turquoise, Coral, Sunbeam Yellow.
+Winter Frost Palette: Ice Blue, Frosty Gray, Snow White.
+Royal Purple Ensemble: Royal Purple, Lavender, Lilac.
+Forest Canopy Hues: Pine Green, Moss, Forest Green.
+Sunflower Meadow Palette: Sunflower Yellow, Meadow Green, Cornflower Blue.
+Cherry Blossom Palette: Cherry Red, Blossom Pink, Pearl White.
+Urban Concrete Tones: Concrete Gray, Steel, Graphite.
+Regal Jewel Palette: Sapphire, Ruby, Emerald.
+Vintage Sepia Scheme: Sepia, Antique Gold, Old Rose.
+Tropical Sea Breeze: Teal, Aqua, Caribbean Blue.
+Fiery Ember Palette: Ember Red, Flame Orange, Ash Gray.
+Cloudy Sky Colors: Slate Blue, Cloud Gray, Silver.
+Sunset Radiance Palette: Coral, Peach, Goldenrod.
+Lavender Fields Palette: Lavender, Violet, Heather Gray.
+Honeycomb Palette: Honey, Amber, Beige.
+Cherry Chocolate Bliss: Cherry Red, Chocolate Brown, Vanilla.
+Moonlit Night Palette: Midnight Blue, Silver, Charcoal.
+Muted Pastel Palette: Muted Coral, Soft Sage, Blush Pink.
+Earthy Olive Moss Theme: Olive, Moss Green, Earthy Brown.
+Elegant Silver Charcoal Theme: Silver, Charcoal Gray, Slate.
+Tropical Coral Aqua Theme: Coral, Aqua Blue, Turquoise.
+Cozy Mocha Beige Theme: Mocha, Beige, Warm Taupe.
+Regal Amethyst Lavender Theme: Amethyst Purple, Lavender, Lilac.
+Vibrant Citrus Lemon Theme: Citrus Yellow, Lemon, Sunburst Orange.
+Sky Blue Indigo Night Theme: Sky Blue, Indigo Blue, Midnight Navy.
+Desert Sand Dune Theme: Desert Sand, Dune Beige, Dusty Taupe.
+Minty Sage Seafoam Theme: Mint Green, Sage, Seafoam.
+Autumn Rust Copper Theme: Rust Orange, Copper, Burnt Sienna.
+Royal Sapphire Navy Theme: Royal Blue, Sapphire, Navy.
+Blush Rose Gold Theme: Blush Pink, Rose Gold, Soft Champagne.
+Lemon Lime Meadow Theme: Lemon Yellow, Lime Green, Meadow.
+Burgundy Wine Merlot Theme: Burgundy, Wine Red, Deep Merlot.
+Teal Turquoise Aqua Theme: Teal, Turquoise, Aqua Blue.
+Lavender Lilac Orchid Theme: Lavender, Lilac, Orchid Purple.
+Coral Peach Apricot Theme: Coral, Peach, Apricot Orange.
+Cool Ice Frost Theme: Cool Blue, Ice Blue, Frost White.
+Golden Honey Mustard Theme: Golden Yellow, Honey, Mustard.
+Sunset Red Amber Theme: Sunset Red, Amber, Burnt Sienna.
+Forest Green Pine Theme: Forest Green, Pine Green, Moss.
+Cherry Blossom Pink Theme: Cherry Blossom, Pink, Soft Rose.
+Oceanic Wave Aqua Theme: Oceanic Blue, Wave Teal, Aqua.
+Warm Cocoa Coffee Theme: Warm Cocoa, Coffee Brown, Cream.
+Scarlet Crimson Ruby Theme: Scarlet Red, Crimson, Ruby.
+Pearl Silver Moon Theme: Pearl White, Silver, Moon Gray.
+Violet Grape Plum Theme: Violet Purple, Grape, Deep Plum.
+Sunflower Gold Wheat Theme: Sunflower Yellow, Gold, Wheat.
+Charcoal Slate Graphite Theme: Charcoal, Slate Gray, Graphite.
+Soft Sage Celadon Theme: Soft Sage Green, Celadon, Mint.
