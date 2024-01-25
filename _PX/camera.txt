@@ -4,3 +4,23 @@ diffraction spikes
 depth of field
 dithering
 dynamic angle
+dynamic angle, dutch angle camera tilt
+lens flare
+anamorphic lens flare
+long exposure,motion blur
+tone range, shadows to highlights
+Tilt-Shift, selective focus
+Slow Motion
+Fast Motion (Time Lapse)
+Rack Focus
+Zoom In/Out
+Crane Shot
+Steadicam Shot
+Tracking (Dolly) Shot
+POV Shot (Point of View)
+Silhouette Shot
+High-Angle Shot
+Low-Angle Shot
+Handheld Camera
+lens vignette and aberation
+lomography
