@@ -1,7 +1,7 @@
 Selection of styles for A1111, SD, and SDXL models. 
 
 Installation:
-Copy to your \stable-diffusion-webui folder and refresh the style list.
+Copy to your \stable-diffusion-webui folder and refresh the style list. Back up your original styles.csv if needed.
 
 Contents:
 1. General styles for SDXL
