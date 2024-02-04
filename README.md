@@ -1,5 +1,5 @@
 # Photomatix
-Utilities, Styles, and Wildcards for SD Model **Photomatix** v1, v2/LCM, v3/LCM (works with [RT version](https://sandner.art/tensorrt-200-speed-boost-with-a-catch-accelerating-neural-networks-for-image-generation-using-nvidia-technology/) and with SD15 models, most styles also with SDXL). **PX** (Photomatix) Styles and **AX** (Animatix) Styles are for these checkpoints but can be combined for various effects.
+Utilities, Styles, and Wildcards for SD Model **Photomatix** v1, v2/LCM, v3/LCM (works with [RT version](https://sandner.art/tensorrt-200-speed-boost-with-a-catch-accelerating-neural-networks-for-image-generation-using-nvidia-technology/) and with SD15 models, most styles also with SDXL). **PX** (Photomatix), **AX** (Animatix), and **CX** (Cinematix) Styles are for these checkpoints but can be combined for various effects.
 
 ![photomatix-sd-model-github-utilities-styles](https://github.com/sandner-art/Photomatix/assets/134306627/72a177d3-8517-4b34-a112-29ceef4d8671)
 [Read more](https://sandner.art/photomatix-unleashing-photorealism-in-ai-art-through-the-stable-diffusion-base-model/) about the model or [download it](https://civitai.com/models/106055) for free from Civitai
