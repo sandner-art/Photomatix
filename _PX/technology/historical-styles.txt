@@ -1,0 +1,40 @@
+Minimalist, Clean lines, simplicity, and focus on essential elements.
+Rustic, Weathered textures, natural materials, and a sense of warmth.
+Modern, Sleek surfaces, geometric shapes, and a contemporary aesthetic.
+Industrial, Raw materials, exposed structures, and utilitarian aesthetics.
+Art Deco, Ornate detailing, luxurious materials, and geometric patterns.
+Bohemian, Eclectic patterns, vibrant colors, and a free-spirited vibe.
+Scandinavian, Light woods, neutral tones, and functional minimalism.
+Vintage, Nostalgic elements, classic patterns, and retro charm.
+Futuristic, High-tech materials, sleek surfaces, and a sense of innovation.
+Coastal, Light and airy, nautical motifs, and a beach-inspired palette.
+Gothic, Dramatic arches, dark colors, and ornate details.
+Cottagecore, Floral patterns, cozy textiles, and a nostalgic countryside feel.
+Steampunk, Brass and copper elements, gears, and a Victorian industrial aesthetic.
+Mid-Century Modern, Iconic furniture, bold colors, and clean lines.
+Eclectic, Diverse influences, varied textures, and a mix of styles.
+Transitional, Timeless elegance, blending classic and contemporary elements.
+Contemporary, Current design trends, a balance of form and function.
+Japanese Zen, Serene simplicity, natural materials, and harmonious design.
+Art Nouveau, Curved lines, organic motifs, and decorative flourishes.
+Cyberpunk, Neon lights, futuristic elements, and a dystopian atmosphere.
+Futuristic Minimalism, Clean lines, simplicity, and a focus on essential elements.
+Sci-Fi Rustic, Weathered textures, natural materials, and a sense of warmth in a space-age setting.
+Space-age Modernism, Sleek surfaces, geometric shapes, and a contemporary aesthetic for interstellar spaces.
+Interstellar Industrial, Raw materials, exposed structures, and utilitarian aesthetics for futuristic spacecraft.
+Tech Noir Deco, Ornate detailing, luxurious materials, and geometric patterns in a futuristic noir setting.
+Galactic Bohemian, Eclectic patterns, vibrant colors, and a free-spirited vibe across the cosmos.
+Exoplanetary Scandinavian, Light woods, neutral tones, and functional minimalism in distant planetary outposts.
+Retro-futuristic Vintage, Nostalgic elements, classic patterns, and retro charm with a futuristic twist.
+Space Odyssey Futurism, High-tech materials, sleek surfaces, and a sense of innovation for cosmic exploration.
+Celestial Coastal, Light and airy, nautical motifs, and a beach-inspired palette for space colonies.
+Exo-Gothic, Dramatic arches, dark colors, and ornate details in the grandeur of extraterrestrial architecture.
+Cosmic Cottagecore, Floral patterns, cozy textiles, and a nostalgic countryside feel in space habitats.
+Astro-steampunk, Brass and copper elements, gears, and a Victorian industrial aesthetic adapted for space travel.
+Space Odyssey Modern, Iconic furniture, bold colors, and clean lines in the vastness of the cosmos.
+Galactic Eclecticism, Diverse influences, varied textures, and a mix of styles across the universe.
+Transcendent Transition, Timeless elegance, blending classic and contemporary elements in a cosmic context.
+Quantum Contemporary, Current design trends, a balance of form and function in the era of quantum technologies.
+Astro Zen, Serene simplicity, natural materials, and harmonious design amidst the stars.
+Alien Nouveau, Curved lines, organic motifs, and decorative flourishes in extraterrestrial artistry.
+Neon Cyber Space, Neon lights, futuristic elements, and a dystopian atmosphere in the digital cosmos.

@@ -1,0 +1,43 @@
+spaceship hexagon structural corridor 
+spaceship hexagon structural corridor, airlock, pressure windows
+spaceship control room, hypersleep pilot chair
+Hyperdrive Core Nexus, Brilliantly pulsating hexagonal chamber, focal point of warp travel technology.
+Zero-G Observation Deck, Expansive pressure windows offering panoramic views of distant galaxies.
+Quantum Nexus Chamber, Glowing convergence point of interdimensional travel, surrounded by intricate energy patterns.
+Plasma Reactor Chamber, Intense blue and green hues emanating from a central reactor, powering the entire spacecraft.
+Holodeck Simulation Room, Holographic projections creating immersive and dynamic training environments.
+Nebula Lounge, Relaxation area with transparent walls, allowing occupants to bask in the mesmerizing beauty of nearby nebulae.
+Cybernetic Control Hub, A futuristic command center with holographic displays and interactive control panels.
+Nano-Fabrication Bay, Microscopic machines assembling advanced materials for spacecraft repairs.
+Stellar Cartography Room, Detailed celestial maps displayed on interactive screens for navigational planning.
+AI Core Chamber, A pulsating orb at the heart of artificial intelligence, overseeing ship functions.
+Gravitational Stabilizer Array, Massive rotating rings creating artificial gravity, visible through transparent flooring.
+Vortex Simulation Chamber, A controlled environment mimicking the conditions inside a cosmic black hole.
+Bioluminescent Oxygen Garden, Lush plant life emitting soft light, providing a serene atmosphere for crew relaxation.
+Magnetic Shield Generator Room, Giant electromagnetic coils generating protective shields for the spacecraft.
+Temporal Distortion Lab, Distorted reality patterns inside a chamber experimenting with time manipulation.
+Quantum Encryption Vault, A secure chamber housing advanced quantum encryption devices for sensitive data protection.
+AI-Assisted Medbay, Advanced medical facilities with robotic assistants and healing pods.
+Magnetic Rail Transit, High-speed magnetic rails connecting different sections of the spacecraft for rapid transit.
+Nano-Disassembly Chamber, Molecular deconstruction facility for recycling and reusing materials.
+Solar Sail Observation Deck, A space sail harnessing solar wind, with a transparent floor offering a unique celestial view.
+Starship Bridge Command, Futuristic control consoles and holographic displays, the nerve center of the spaceship.
+Engine Room Nexus, A labyrinth of pipes and conduits surrounding a powerful antimatter engine core.
+Cargo Bay Nexus, Enormous storage chambers with robotic arms loading and unloading alien artifacts and rare materials.
+Hypersleep Chamber Array, Rows of cryogenic pods with occupants in suspended animation, awaiting distant star system arrival.
+Rescue Pod Launch Center, Emergency evacuation area with sleek pods ready for rapid deployment in case of ship failure.
+Navigation Hub, Celestial maps projected on large screens, plotting courses through wormholes and star clusters.
+Quantum Shield Control Room, Technicians monitoring the spacecraft's defensive shields against interstellar threats.
+Teleportation Chamber, Experimental device for instantaneous crew transport between ship and planetary surfaces.
+AI Command Nexus, Centralized hub for the ship's artificial intelligence, overseeing all automated functions.
+Alien Artifact Research Lab, Secure chamber with containment fields, scientists studying enigmatic extraterrestrial objects.
+Stealth Cloaking Generator, Advanced technology rendering the spaceship invisible to enemy sensors.
+Xenobotany Habitat, Enclosed environment cultivating alien plant life for medicinal and research purposes.
+Astrometric Observatory Deck, Telescopes and sensors for observing cosmic phenomena and plotting celestial coordinates.
+Anti-Gravity Recreation Deck, Weightless environment for crew relaxation and recreational activities.
+Emergency Stasis Pods, Escape pods equipped with stasis fields for crew members during critical situations.
+Temporal Anomaly Observatory, Specialized room for studying anomalies in the fabric of spacetime.
+AI Learning Center, A space for artificial intelligence to learn and adapt based on new information and experiences.
+Gravity Manipulation Chamber, Experimentation with altering gravitational forces for scientific exploration.
+Subspace Communication Hub, Equipment for long-range communication with other ships and distant civilizations.
+Dimensional Warp Drive Room, Cutting-edge technology allowing the spaceship to traverse alternate dimensions.

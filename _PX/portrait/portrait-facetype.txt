@@ -1,0 +1,45 @@
+Woman, heart-shaped face, dimpled cheeks, freckles, long-sighted.
+Man, square face, strong jawline, beard, deep-set eyes.
+Woman, oval face, high cheekbones, full lips, pierced nose.
+Man, round face, chubby cheeks, clean-shaven, expressive eyebrows.
+Woman, diamond-shaped face, pointed chin, prominent forehead, cat-eye glasses.
+Man, triangular face, cleft chin, stubble, bushy eyebrows.
+Woman, rectangular face, straight nose, thin lips, wide-set eyes.
+Man, oblong face, double chin, moustache, nearsighted.
+Woman, square face, angular jawline, bold eyebrows, septum piercing.
+Man, heart-shaped face, dimpled chin, goatee, long lashes.
+Woman, round face, button nose, rosy cheeks, lip piercing.
+Man, oval face, sculpted beard, arched eyebrows, deep-set dimples.
+Woman, triangular face, pointed nose, small scar on the cheek, monocle glasses.
+Man, rectangular face, strong nose, full beard, rugged appearance.
+Woman, oblong face, thin lips, prominent cheekbones, teardrop tattoo near the eye.
+Woman, heart-shaped face, cheeks with a warm, sun-kissed glow, freckles sprinkled like a playful constellation, and eyes that effortlessly spot details in the distance.
+Man, square-faced with a jawline sharp enough to cut through stereotypes, a beard suggesting tales of rugged experiences, and eyes set deep, hinting at a well-guarded persona.
+Woman, oval-shaped visage, cheekbones that accentuate grace, lips offering subtle poetry in each smile, and eyes that sparkle with curiosity behind cat-eye glasses.
+Man, round-faced and full-cheeked, expressing a perpetual sense of delight, eyebrows that engage in a lively dance of expressions, and eyes conveying stories in every blink.
+Woman, diamond-shaped countenance with a pointed chin, a forehead that holds a universe of thoughts, and eyes framed by cat-eye glasses, exuding an air of intrigue.
+Man, a triangle of charm with a cleft chin commanding attention, stubble contributing to a rebellious charm, and expressive eyebrows conveying emotions with flair.
+Woman, rectangle-shaped features, a nose suggesting refined elegance, lips that articulate wisdom, and eyes carrying the depth of numerous untold stories.
+Man, oblong profile with a chin boasting character, a mustache that adds a touch of whimsy, and nearsighted eyes that infuse a cinematic blur into ordinary scenes.
+Woman, square-faced elegance with a sculpted jawline, eyebrows shaping the drama of expressions, and glasses perched on the nose, offering a glimpse into an intellectual mind.
+Man, heart-shaped appeal with a dimpled chin radiating charm, a goatee that adds a touch of allure, and eyes that playfully flirt with expressive lashes.
+Woman, round-faced with a button nose contributing to a symphony of features, cheeks blushing like a canvas painted with the hues of emotion, and a lip piercing introducing a rebellious note.
+Man, an oval canvas of handsomeness with a sculpted beard, arched eyebrows reflecting sophistication, and dimples suggesting a touch of warmth.
+Woman, a triangle-shaped mystery with a daring nose, a cheek scar narrating tales of resilience, and monocle glasses offering an air of intellectual curiosity.
+Man, rectangular allure with a nose hinting at adventures, a beard presenting a rugged aesthetic, and expressive eyebrows navigating a landscape of emotions.
+Woman, an oblong wonder with lips delicately shaped, cheekbones casting shadows of intrigue, and eyes conveying emotional intensity, adorned with a teardrop tattoo for an extra layer of mystery.
+Woman, heart-shaped face, radiant complexion, freckles adding charm, and keen-sighted eyes.
+Man, square-jawed with a rugged beard, deeply set expressive eyes, and a strong, chiseled jawline.
+Woman, oval-faced with high cheekbones, full lips, and an air of elegance behind cat-eye glasses.
+Man, round-faced with rosy cheeks, expressive eyebrows, and eyes that convey a lively spirit.
+Woman, diamond-shaped face, pointed chin, a sophisticated forehead, and cat-eye glasses for an intriguing look.
+Man, triangle-shaped with a distinctive cleft chin, a hint of stubble, and expressive eyebrows.
+Woman, rectangle-faced with refined features, a straight nose, and eyes revealing depth and wisdom.
+Man, oblong face with a character-filled chin, a playful mustache, and a nearsighted gaze.
+Woman, square-faced elegance with sculpted eyebrows, glasses perched on the nose, and a keen intellect.
+Man, heart-shaped with a dimpled chin, a stylish goatee, and eyes that flirt with every expression.
+Woman, round-faced with a button nose, blushing cheeks, and a rebellious lip piercing.
+Man, oval-faced with a well-groomed beard, arched eyebrows, and dimples exuding warmth.
+Woman, triangular face with a daring nose, a cheek scar telling tales of strength, and an air of intellectual curiosity with monocle glasses.
+Man, rectangular allure with an adventurous nose, rugged beard, and expressive eyebrows.
+Woman, oblong wonder with delicately shaped lips, intriguing cheekbones, and eyes conveying emotional intensity, adorned with a teardrop tattoo for mystery.

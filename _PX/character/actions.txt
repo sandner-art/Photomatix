@@ -1,5 +1,6 @@
-standing
-sitting
+standing waiting
+sitting studying
+sitting, expectations 
 texting
 typing
 walking

@@ -22,3 +22,34 @@ pale albino
 subtle Chinese
 Japanese
 light-skinned Korean
+Estonian
+Danish
+Scottish
+Norwegian
+Lithuanian
+Slovenian
+Basque
+Ukrainian
+Belarusian
+Croatian
+Slovakian
+Hungarian
+Czech
+Bulgarian
+Armenian
+Georgian
+Greek
+Israeli
+Nigerian
+Kenyan
+Indigenous Inuit
+Native Hawaiian
+Incan
+Senegalese
+Papua New Guinean
+Icelandic
+Bhutanese
+Uzbek
+Mongolian
+French
+Egyptian Arab
