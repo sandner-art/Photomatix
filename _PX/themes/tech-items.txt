@@ -1,0 +1,45 @@
+Ammo Crate:Style: Military surplus.Paneling: Reinforced metal with rivets.Surface: Faded olive drab paint.Features: Stenciled ammo type labels, hinged lid.
+MedKit Backpack:Style: Tactical field gear.Paneling: MOLLE webbing for attachments.Surface: Ripstop fabric with bloodstains.Features: Multiple compartments, quick-release buckles.
+Energy Cell Charger:Style: Sci-fi tech.Paneling: Smooth metallic casing.Surface: Luminescent energy readouts.Features: Inductive charging, status LEDs.
+Toolbox:Style: Garage workshop.Paneling: Rusty steel with dents.Surface: Grease stains and faded logos.Features: Removable tray, sturdy handle.
+Lockbox:Style: Secret agent cache.Paneling: Reinforced composite.Surface: Biometric scanner and numeric keypad.Features: Concealed compartment for sensitive documents.
+Nano-Infuser Case:Style: Futuristic lab equipment.Paneling: Glass panels revealing intricate circuitry.Surface: Matte black alloy.Features: Holds nanobots for healing or augmentation.
+Data Cube:Style: Cyberpunk data storage.Paneling: Faceted crystal.Surface: Holographic data streams.Features: Encrypted information repository.
+Survival Cache:Style: Post-apocalyptic stash.Paneling: Camouflage netting.Surface: Weathered metal box.Features: Contains water purification tablets, protein bars.
+Grenade Belt Pouch:Style: Mercenary gear.Paneling: Cordura fabric.Surface: Velcro closures.Features: Holds fragmentation or smoke grenades.
+Cybernetic Implant Case:Style: High-tech lab.Paneling: Biopolymer casing.Surface: LED status indicators.Features: Safely stores neural implants.
+Geocaching Container:Style: Outdoor adventure.Paneling: Weatherproof plastic.Surface: Earth-toned camouflage.Features: Hidden in natural surroundings.
+Hacker Toolkit: Style: Underground hacker den.Paneling: Matte black aluminum.Surface: Glowing keyboard symbols.Features: Contains lock picks, USB drives, and a mini laptop.
+Artifact Box:Style: Archaeological expedition.Paneling: Wooden crate with brass corners.Surface: Faded expedition labels.Features: Safeguards ancient relics.
+Energy Cell Pack:Style: Sci-fi power source.Paneling: Hexagonal cells.Surface: Iridescent casing.Features: Recharges energy weapons.
+Stealth Cache:Style: Spy mission.Paneling: Carbon fiber.Surface: Matte black finish.Features: Conceals lock picks, micro cameras.
+Nanite Cache:Style: Futuristic lab container.Paneling: Transparent polymer.Surface: Glowing nanite suspension.Features: Holds microscopic repair bots or enhancement particles.
+Cipher Lockbox:Style: Espionage safe.Paneling: Titanium alloy.Surface: Laser-etched alphanumeric code.Features: Requires a complex sequence to unlock.
+Quantum Data Crystal:Style: Cybernetic archive.Paneling: Faceted crystal lattice.Surface: Holographic data streams.Features: Stores encrypted information or ancient knowledge.
+Emergency Rations Pack:Style: Post-apocalyptic survival.Paneling: Vacuum-sealed foil pouches.Surface: Faded labels with nutritional info.Features: Contains dehydrated meals and water purification tablets.
+Stealth Camouflage Net:Style: Military field gear.Paneling: Lightweight mesh.Surface: Adaptive pixelated pattern.Features: Conceals equipment or personnel in various environments.
+Cybernetic Implant Case:Style: High-tech lab.Paneling: Biopolymer casing.Surface: LED status indicators.Features: Safely stores neural implants or bionic enhancements.
+Geiger Counter Kit:Style: Nuclear fallout survival.Paneling: Rugged plastic.Surface: Radionuclide symbols.Features: Detects radiation levels in the environment.
+Hacker Toolkit:Style: Underground hacker den.Paneling: Matte black aluminum.Surface: Glowing keyboard symbols.Features: Contains lock picks, USB drives, and a mini laptop.
+Artifact Sarcophagus:Style: Archaeological expedition.Paneling: Reinforced wooden crate.Surface: Faded expedition labels.Features: Safeguards ancient relics or cursed artifacts.
+Energy Cell Pack:Style: Sci-fi power source.Paneling: Hexagonal cells.Surface: Iridescent casing.Features: Recharges energy weapons or portable devices.
+Nanite Cache: Transparent polymer casing, glowing nanite suspension, multiple compartments, hinged lid.
+Cipher Lockbox: Titanium alloy construction, laser-etched alphanumeric code, complex sequence to unlock.
+Quantum Data Crystal: Faceted crystal lattice, holographic data streams, encrypted information repository.
+Emergency Rations Pack: Vacuum-sealed foil pouches, faded labels with nutritional info, dehydrated meals and water purification tablets.
+Stealth Camouflage Net: Lightweight mesh, adaptive pixelated pattern, conceals equipment or personnel.
+Cybernetic Implant Case: Biopolymer casing, LED status indicators, safely stores neural implants or bionic enhancements.
+Geiger Counter Kit: Rugged plastic housing, radionuclide symbols, detects radiation levels.
+Hacker Toolkit: Matte black aluminum tools, glowing keyboard symbols, lock picks, USB drives, mini laptop.
+Artifact Sarcophagus: Reinforced wooden crate, faded expedition labels, safeguards ancient relics or cursed artifacts.
+Energy Cell Pack: Hexagonal cells, iridescent casing, recharges energy weapons or portable devices.
+Quantum Flux Capacitor: Style: Sci-fi lab equipment. Features: Glowing plasma containment, adjustable temporal settings, safety override switch.
+Chrono-Relay Beacon: Style: Steampunk meets high-tech. Features: Brass casing, rotating dials for time coordinates, emits temporal pulses.
+Nanite Hive Canister: Style: Futuristic biotech. Features: Glass vial filled with swarming nanobots, self-repairing properties, caution label.
+Void Essence Phial: Style: Eldritch magic.Features: Crystal flask containing swirling darkness, whispers of forbidden knowledge, sealed cork.
+Holographic Map Projector: Style: Cyberpunk navigation. Features: Portable device projecting 3D maps, touch-sensitive interface, encrypted waypoints.
+Quantum Entanglement Keycard: Style: Futuristic security. Features: Transparent card with shimmering entangled particles, grants access to hidden areas.
+Dimensional Rift Satchel: Style: Interdimensional traveler’s gear. Features: Leather bag with glowing seams, holds exotic artifacts from parallel worlds.
+Plasma Infusion Syringe: Style: Medical sci-fi. Features: Needle filled with luminous plasma, enhances physical abilities temporarily.
+Reality Shard Amulet: Style: Fantasy artifact. Features: Faceted gem on a silver chain, glimpses alternate realities when gazed upon.
+Quantum Dice Set: Style: Cosmic gambler’s tools.Features: Translucent dice with shifting symbols, roll determines fate across dimensions.

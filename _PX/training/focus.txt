@@ -1,0 +1,10 @@
+macro close-up eye 1portrait
+macro close-up (fullbody 1portrait)
+macro close-up (half-body 1portrait)
+macro close-up focus on (torso 1portrait)
+fullbody
+(cowboy-shot)
+fullbody sitting
+fullbody-activity
+focus on face
+product-focus

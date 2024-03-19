@@ -1,0 +1,50 @@
+world-pov: Retrofuturistic cityscape, with towering bio-mechanical arcologies and holographic billboards.
+protagonist.mechanic: Cyborg bounty hunter, chasing a corporate fugitive through neon-lit streets.
+camera-action: Interrogating a suspect in a dimly lit, steam-filled back-alley.
+feature.mechanical: Vast, storm-swept skies dotted with zeppelin fortresses and antique aircraft.
+world-tech: Oppressive diesel-punk dystopia, with crumbling infrastructure and ubiquitous surveillance.
+protagonist.hacker-shaman: Weaving ancient magic through cybernetic implants, disrupting a corporate ritual.
+world-chrono: Retrofuturistic cityscape, with steam-powered skyscrapers and holographic displays.
+camera-chase: Evading rival factions and mechanical beasts in a high-speed chase across a desolate, post-apocalyptic wasteland.
+feature.cyborg: Augmented space pirate, leading a crew of misfits and outcasts.
+world-resistance: Sprawling, post-apocalyptic cityscape, with the ruins of a bygone era intertwined with advanced, yet decaying, infrastructure.
+protagonist.journalist: Cyber-enhanced investigator, delving into a mysterious dieselpunk conspiracy.
+camera-infiltrate: Navigating a heavily fortified, steam-powered research facility.
+feature.techno-shaman: Wielding both cyberpunk and dieselpunk-influenced abilities, disrupting an ancient ritual.
+world-ruins: Derelict, retrofuturistic space station, with a blend of dieselpunk and cyberpunk aesthetics.
+protagonist.explorer: Bionic cartographer, mapping uncharted regions of a dieselpunk-influenced, post-apocalyptic landscape.
+camera-discover: Uncovering the remnants of an ancient, cyberpunk-inspired civilization.
+feature.mercenary: Cyber-enhanced mercenary, torn between personal loyalties and a dieselpunk-inspired corporate conspiracy.
+world-dystopia: Oppressive, retrofuturistic dystopia, with crumbling infrastructure and ubiquitous surveillance.
+protagonist.courier: Transporting sensitive data across a war-torn, dieselpunk-influenced landscape.
+camera-chase: Evading rival factions and mechanical beasts through a desolate, post-apocalyptic wasteland.
+world-megacity: Neon-soaked metropolis, with towering bio-mechanical skyscrapers and holographic displays.
+feature.time-traveler: Navigating a dieselpunk-cyberpunk hybrid timeline, assisting a ragtag resistance cell.
+protagonist.pirate: Augmented space pirate, leading a crew of misfits and outcasts.
+camera-board: Boarding a heavily fortified, diesel-powered corporate cargo ship in deep space.
+world-dystopia: Authoritarian society, with a stark blend of high-tech and industrial elements, and the crumbling ruins of a bygone era.
+Protagonist: Mechanic cyborg bounty hunter. Action: Chasing down a corporate fugitive through a neon-lit megacity. World: Sprawling industrial metropolis, with steam-powered machinery and holographic billboards.
+Protagonist: Rogue AI-powered airship pilot. Action: Dogfighting with rival smugglers over a remote dieselpunk refueling station. World: Vast, storm-swept skies dotted with zeppelin fortresses and antique aircraft.
+Protagonist: Bionic detective investigating a seedy underground cybercrime syndicate. Action: Interrogating a suspect in a dimly lit, steam-filled back-alley. World: Grimy, retrofuturistic city streets with towering corporate arcologies.
+Protagonist: Cybernetically enhanced freedom fighter. Action: Infiltrating a heavily guarded diesel-powered government facility. World: Oppressive diesel-punk dystopia, with crumbling infrastructure and ubiquitous surveillance.
+Protagonist: Hacker-shaman hybrid, weaving ancient magic through cybernetic implants. Action: Disrupting a corporate ritual to seize control of an ancient AI. World: Neon-soaked metropolis, with towering bio-mechanical megastructures.
+Protagonist: Chrono-displaced time traveler, navigating a dieselpunk-cyberpunk hybrid timeline. Action: Assisting a ragtag resistance cell in a daring raid. World: Retrofuturistic cityscape, with steam-powered skyscrapers and holographic displays.
+Protagonist: Cyborg courier, transporting sensitive data across a war-torn, dieselpunk-influenced landscape. Action: Evading rival factions and mechanical beasts in a high-speed chase. World: Desolate, post-apocalyptic wasteland, dotted with the rusting remains of diesel-powered machinery.
+Protagonist: Augmented space pirate, leading a crew of misfits and outcasts. Action: Boarding a heavily fortified corporate cargo ship in deep space. World: Gritty, dieselpunk-inspired space stations and retrofuturistic starships.
+Protagonist: Engineered supersoldier, struggling with her cybernetic-enhanced identity. Action: Navigating a maze of corporate intrigue and dieselpunk-tinged military operations. World: Dystopian megacity, with authoritarian control and a stark blend of high-tech and industrial aesthetics.
+Protagonist: Scavenger-turned-resistance fighter, wielding a mix of cyberpunk and dieselpunk tech. Action: Sabotaging a heavily guarded diesel-powered factory. World: Sprawling, post-apocalyptic cityscape, with the ruins of a bygone era intertwined with advanced, yet decaying, infrastructure.
+Protagonist: Cyber-enhanced journalist, investigating a mysterious dieselpunk conspiracy. Action: Infiltrating a heavily fortified, steam-powered research facility. World: Retrofuturistic city, with a blend of dieselpunk architecture and cutting-edge cyberpunk technology.
+Protagonist: Augmented sleeper agent, reawakened to disrupt a dieselpunk-inspired corporate takeover. Action: Engaging in a high-stakes chase through a crowded, neon-lit megacity. World: Dystopian society, with a blend of authoritarian control and a retrofuturistic aesthetic.
+Protagonist: Techno-shaman, wielding both cyberpunk and dieselpunk-influenced abilities. Action: Disrupting a ritual to harness an ancient, dieselpunk-inspired energy source. World: Sprawling, techno-organic cityscape, with a blend of high-tech and industrial elements.
+Protagonist: Cyborg salvage hunter, navigating the hazardous ruins of a dieselpunk-inspired space station. Action: Uncovering the secrets of a long-forgotten, cyberpunk-tinged technological relic. World: Derelict, retrofuturistic space station, with a blend of dieselpunk and cyberpunk aesthetics.
+Protagonist: Bionic explorer, mapping the uncharted regions of a dieselpunk-influenced, post-apocalyptic landscape. Action: Discovering the remnants of an ancient, cyberpunk-inspired civilization. World: Vast, desolate wilderness, with the crumbling ruins of a bygone era intertwined with emerging, high-tech elements.
+Protagonist: Cyber-enhanced mercenary, torn between personal loyalties and a dieselpunk-inspired corporate conspiracy. Action: Infiltrating a heavily fortified, steam-powered research facility. World: Dystopian megacity, with a blend of authoritarian control, retrofuturistic architecture, and cutting-edge cyberpunk technology.
+Protagonist: Genetically engineered super-soldier, navigating a dieselpunk-influenced, post-apocalyptic landscape. Action: Uncovering the secrets of a long-forgotten, cyberpunk-inspired technological relic. World: Desolate, storm-swept wilderness, with the rusting remains of a bygone era intertwined with emerging, high-tech elements.
+Protagonist: Techno-shaman, wielding a fusion of cyberpunk and dieselpunk-influenced abilities. Action: Disrupting a ritual to harness an ancient, steam-powered energy source. World: Sprawling, techno-organic cityscape, with a blend of high-tech and industrial elements.
+Protagonist: Augmented freedom fighter, leading a ragtag resistance cell against a dieselpunk-inspired, authoritarian regime. Action: Infiltrating a heavily fortified, steam-powered government facility. World: Oppressive, retrofuturistic dystopia, with crumbling infrastructure and ubiquitous surveillance.
+Protagonist: Cyborg courier, transporting sensitive data across a war-torn, dieselpunk-influenced landscape. Action: Evading rival factions and mechanical beasts in a high-speed chase through a desolate, post-apocalyptic wasteland. World: Rusting, dystopian cityscape, dotted with the decaying remains of diesel-powered machinery.
+Protagonist: Hacker-shaman hybrid, weaving ancient magic through cybernetic implants. Action: Disrupting a corporate ritual to seize control of an ancient, AI-powered dieselpunk-inspired energy source. World: Neon-soaked megacity, with towering bio-mechanical skyscrapers and holographic displays.
+Protagonist: Chrono-displaced time traveler, navigating a dieselpunk-cyberpunk hybrid timeline. Action: Assisting a ragtag resistance cell in a daring raid on a heavily fortified, steam-powered government facility. World: Retrofuturistic cityscape, with a blend of steam-powered skyscrapers and cutting-edge holographic technology.
+Protagonist: Augmented space pirate, leading a crew of misfits and outcasts. Action: Boarding a heavily fortified, diesel-powered corporate cargo ship in deep space. World: Gritty, retrofuturistic space stations and starships, with a blend of high-tech and industrial aesthetics.
+Protagonist: Engineered supersoldier, struggling with her cybernetic-enhanced identity. Action: Navigating a maze of corporate intrigue and dieselpunk-tinged military operations in a dystopian megacity. World: Authoritarian society, with a stark blend of high-tech and industrial elements, and the crumbling ruins of a bygone era.
+Protagonist: Scavenger-turned-resistance fighter, wielding a mix of cyberpunk and dieselpunk tech. Action: Sabotaging a heavily guarded, steam-powered factory in a sprawling, post-apocalyptic cityscape. World: Dystopian landscape, with the ruins of a bygone era intertwined with advanced, yet decaying, infrastructure.

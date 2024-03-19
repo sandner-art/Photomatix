@@ -1,0 +1,20 @@
+(1man manly male)
+(1woman petite female)
+(1man manly male),red orange,
+(1woman petite female), green orange,
+(1man manly male),red yellow orange,
+(1woman petite female), blue green orange,
+(1man manly male), yellow black,
+(1woman petite female) yellow black,
+(1man manly male)
+(1woman petite female)
+(1man manly male), muscular, athletic,
+(1woman petite female) muscular, athletic,
+(1man manly male), hulking,
+(1woman petite female), hulking,
+(1man manly male), hulking, thin,
+(1woman petite female), hulking, thin,
+(1man manly male), hulking, fat,
+(1woman petite female), hulking, fat,
+(1man manly male)
+(1woman petite female)

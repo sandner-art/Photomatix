@@ -1,0 +1,60 @@
+Line elements
+Shape elements
+Text elements
+Icon elements
+Pattern elements
+Texture elements
+Ornamental elements
+Illustrative elements
+Frame elements
+Border elements
+Symbolic elements
+Decorative elements
+Floral elements
+Geometric elements
+Abstract elements
+Organic elements
+Grid elements
+Dot elements
+Arrow elements
+Ribbon elements
+Badge elements
+Banner elements
+Emblem elements
+Button elements
+Scroll elements
+Scrollwork elements
+Swirl elements
+Vine elements
+Foliage elements
+Scrollwork elements
+Color swatch elements
+Gradient elements
+Hue elements
+Saturation elements
+Tone elements
+Shade elements
+Tint elements
+Contrast elements
+Vibrancy elements
+Chromatic elements
+Monochromatic elements
+Color balance elements
+Color harmony elements
+Color scheme elements
+Color wheel elements
+Color palette elements
+Color picker elements
+Color overlay elements
+Color blend elements
+Color transition elements
+Color splash elements
+Color fill elements
+Color grading elements
+Color correction elements
+Color variation elements
+Color temperature elements
+Color intensity elements
+Color depth elements
+Color cast elements
+Color adjustment elements

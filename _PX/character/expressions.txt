@@ -1,0 +1,36 @@
+angry shocked
+angry shocked, frowning
+ecstatic
+disgusted
+frowning
+frowning, cringe expression
+passionate, furious
+surprised
+terrified
+exstatic
+screaming fear
+screaming angry
+biting lip
+embarrassed, blushing
+dissaproving, bitter expression
+angry shocked, teeth
+disgusted, teeth
+(mouth wide open:1.1), angry shocked
+(mouth wide open:1.1), angry shocked, frowning
+(mouth wide open:1.1), disgusted
+(mouth wide open:1.1), frowning
+(mouth wide open:1.1), frowning, cringe expression
+(mouth wide open:1.1), passionate, furious
+(mouth wide open:1.1), surprised
+(mouth wide open:1.1), terrified
+(mouth wide open:1.1), ecstatic
+(mouth wide open:1.1), screaming fear
+(mouth wide open:1.1), screaming angry
+(mouth wide open:1.1), biting lip
+(mouth wide open:1.1), embarrassed, blushing
+(mouth wide open:1.1), dissaproving, bitter expression
+(mouth wide open:1.1), angry shocked, teeth
+(mouth wide open:1.1), disgusted, teeth
+uvula, (mouth wide open:1.1)
+uvula, (mouth wide open:1.1), sticking (tongue out:1.1)
+uvula, (mouth wide open:1.1), sticking (long tongue out:1.1)
