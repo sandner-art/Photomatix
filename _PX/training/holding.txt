@@ -1,0 +1,15 @@
+(holding, holding a heavy big pumpkin in hands)
+(holding, holding an apple in a hand)
+(holding, holding a heavy big box in hands)
+(holding, holding a heavy paperbag)
+(lifting a heavy box)
+(carrying a heavy box)
+(picking up a heavy big box from ground with both hands)
+(holding, holding a glass in a hand)
+(holding, holding a bottle in a hand)
+(holding, holding a phone in a hand)
+(holding, holding a book in a hand)
+(holding a purse)
+(holding a luggage)
+
+

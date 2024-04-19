@@ -1,0 +1,23 @@
+action running
+action-running
+action hiding
+action-crawling on floor
+action crawling on floor
+crawling on floor
+action-crawling over
+action holding
+action jumping
+action-jumping
+action-diving
+action diving
+action sitting
+action-sitting
+action peeking out
+action-peeking out
+action-peeking out, cautious
+from back turning over, action-peeking out
+from back turning over
+action-driving
+
+
+
